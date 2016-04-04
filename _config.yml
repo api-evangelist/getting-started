@@ -54,15 +54,6 @@ navigation:
     size2: 0
     padding: 20
     decorate: 0
-  - label1: News
-    link1: /news/
-    size1: 80
-    extend: 1
-    label2: RSS
-    link2: /blog.xml
-    size2: 60
-    padding: 5
-    decorate: 0
   - label1: Return to API Evangelist
     link1: http://apievangelist.com
     size1: 80

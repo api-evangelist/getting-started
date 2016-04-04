@@ -1,4 +1,4 @@
-Authentication
+Getting Started
 ==============
 
-This is a project for tracking on providers are handling the authentication of APIs, visit http://authentication.apievangelist.com for more information.
+This is a project tracking on getting started pages, visit http://getting-started.apievangelist.com for more information.

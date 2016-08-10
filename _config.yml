@@ -63,21 +63,12 @@ navigation:
     size2: 60
     padding: 0
     decorate: 0
-  - label1: Organizations
-    link1: /organizations/
+  - label1: Examples
+    link1: /examples/
     size1: 80
     extend: 1
     label2: JSON
     link2: /data/organizations.json
-    size2: 60
-    padding: 0
-    decorate: 0
-  - label1: Tools
-    link1: /tools/
-    size1: 80
-    extend: 1
-    label2: JSON
-    link2: /data/tools.json
     size2: 60
     padding: 0
     decorate: 0

@@ -1,4 +1,2 @@
-Getting Started
-==============
-
-This is a project tracking on getting started pages, visit http://getting-started.apievangelist.com for more information.
+# API Getting Started Research
+This is my API getting started research

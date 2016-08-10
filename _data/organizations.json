@@ -1,0 +1,38 @@
+[
+	{
+		"id": "123rj116EpICKWwtvkBOfxxwKDHZXeA123KfwU0lNcM4NgOAevPHhTgsI44Svo5Ji40AX9inVvsBEr116tetT3ogPZTHhQ117117",
+		"name": "API Evangelist",
+		"summary": "This is my professional presence as the API Evangelist, where I work to better understand the world of APIs. Im always working towards a better understanding of how they are being used, both the good and the bad, across the technology, business, and politics of APIs as I see it.u0026nbsp;",
+		"details": "This is my professional presence as the API Evangelist, where I work to better understand the world of APIs. Im always working towards a better understanding of how they are being used, both the good and the bad, across the technology, business, and politics of APIs as I see it.u0026nbsp;",
+		"website": "http://apievangelist.com",
+		"twitter": "https://twitter.com/apievangelist",
+		"github": "https://github.com/api-evangelist",
+		"apisjson_url": "",
+		"sdksio_url": "",
+		"postman_url": "",
+		"portal_url": "https://github.com/api-evangelist",
+		"base_url": "http://developer.apievangelist.com",
+		"blog": "/blog",
+		"blogrss": "blog.xml",
+		"logo": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png",
+		"logo_width": "150",
+		"screenshot": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png",
+		"tags": [
+			"Platform-Stack",
+			"News",
+			"Getting Started",
+			"API-Stack",
+			"API LIfeycle",
+			"API Evangelist Support API",
+			"API Evangelist Road Map API",
+			"API Evangelist Issues API",
+			"API Evangelist Getting Started API",
+			"API Evangelist Frequently Asked Questions API",
+			"API Evangelist Change Log API",
+			"API Evangelist Authentication API",
+			"API Evangelist",
+			"API Analyst",
+			"Analysis"
+		]
+	}
+]

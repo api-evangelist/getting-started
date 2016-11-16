@@ -174,53 +174,5 @@
 		"url": "https://blog.evernote.com/tech/2015/05/06/tutorial-getting-started-with-the-evernote-api-node-js-with-azk-in-10-minutes/",
 		"domain": "blog.evernote.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/blog-evernote-comtech20150506tutorial-getting-started-with-the-evernote-api-node-js-with-azk-in-10-minutes.png"
-	},
-	{
-		"curated_id": "NU211KU5NZEdA9stcllIPypPH1XFrETVQ116cL5G9vcax4y8DTqFAJB1cxr116Qh1N123RvCXVpbvJU9fykddu6k6EJw117117",
-		"item_date": "2013-12-13 00:00:00",
-		"title": "Getting Started on Salesforce1 Platform with an Hour of Code",
-		"url": "https://developer.salesforce.com/blogs/developer-relations/2013/12/getting-started-with-salesforce1-platform.html",
-		"domain": "developer.salesforce.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/blogs-developerforce-comdeveloper-relations201312getting-started-with-salesforce1-platform-html.png"
-	},
-	{
-		"curated_id": "Ygzi1xGY35lMGr1PVFlsSJytG30vNMfJTtkQNKfIip9XK9jmm7eK8ZCkHIhtr4NnN51IK94nP09F8n169BdGSg117117",
-		"item_date": "2013-12-04 00:00:00",
-		"title": "AlchemyAPI Releases Four New Getting Started Guides",
-		"url": "http://blog.alchemyapi.com",
-		"domain": "blog.alchemyapi.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/www-alchemyapi-comblogalchemyapi-releases-four-new-getting-started-guides.png"
-	},
-	{
-		"curated_id": "3yCPYMWXt9OS0twbBkhf7ltDM6G0DqWNwGk5diLl2h123OZ8VV7y0BaTe2rFbBEAwb7NRDb116ZjIkf116tZwxnWe116pA117117",
-		"item_date": "2013-10-14 00:00:00",
-		"title": "Using Postman to Get Started with the Content API and View API",
-		"url": "https://blog.box.com/blog/using-postman-to-get-started-with-the-content-api-and-view-api-2/",
-		"domain": "blog.box.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/developers-blog-box-com20131014using-postman-to-get-started-with-the-content-api-and-view-api-2.png"
-	},
-	{
-		"curated_id": "YjTOQ7Dyn6mWnru1166Sf6DP6C2ucGmPFf116RyFsPz693BvvYL7vV45MsA6SVhl116TJlT0vT1aZ00NTSNz5123EfqW3Q117117",
-		"item_date": "2013-11-11 00:00:00",
-		"title": "Introduction to the Avalara AvaTax API",
-		"url": "http://developer.avalara.com/blog/2013/11/11/introduction-to-the-avalara-avatax-api",
-		"domain": "developer.avalara.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/developer-avalara-comblog20131111introduction-to-the-avalara-avatax-api.png"
-	},
-	{
-		"curated_id": "mzzu1P7qSmAk7bL123THduk9yMYsGwdf8cJR4t3VCON0WyJF9zwVtKr8et5XKex116116C2hZilpwriwwjF5sfIBOPQw117117",
-		"item_date": "2013-08-15 00:00:00",
-		"title": "Getting started",
-		"url": "http://developer.infoconnect.com/guide",
-		"domain": "developer.infoconnect.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/developer-infoconnect-comgetting-started.png"
-	},
-	{
-		"curated_id": "7NxOIxXkZFwuRMCCQbvvImfhU2bU6KtvombXAxm81X6ooY3fIvkKGSNG9YOrJZndUxFVBlcUAt4hlwDXwPjOog117117",
-		"item_date": "2012-04-26 20:49:20",
-		"title": "John Sheehan  The API Developer Experience Baseline",
-		"url": "http://john-sheehan.com/post/21850777760/the-api-developer-experience-baseline",
-		"domain": "john-sheehan.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png"
 	}
 ]

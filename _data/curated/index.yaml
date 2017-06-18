@@ -1,40 +1,4 @@
 ---
-- curated_id: 690d6ad98586817270dfb6b8f7749599
-  item_date: "2012-04-26 20:49:20"
-  title: 'John Sheehan : The API Developer Experience Baseline'
-  url: http://john-sheehan.com/post/21850777760/the-api-developer-experience-baseline
-  domain: john-sheehan.com
-  image: ""
-- curated_id: 130a26599462fbc4a7826ee8a2a7f167
-  item_date: "2013-08-15 00:00:00"
-  title: Getting started
-  url: http://developer.infoconnect.com/guide
-  domain: developer.infoconnect.com
-  image: ""
-- curated_id: c7780af6733825c8c7969f79180a8247
-  item_date: "2013-10-14 00:00:00"
-  title: Using Postman to Get Started with the Content API and View API
-  url: https://blog.box.com/blog/using-postman-to-get-started-with-the-content-api-and-view-api-2/
-  domain: blog.box.com
-  image: ""
-- curated_id: 88f16717e533e1701811fd0fed36ddd8
-  item_date: "2013-11-11 00:00:00"
-  title: Introduction to the Avalara AvaTax API
-  url: http://developer.avalara.com/blog/2013/11/11/introduction-to-the-avalara-avatax-api
-  domain: developer.avalara.com
-  image: ""
-- curated_id: 0fd05f34c7ad1a6fc79e1573ee4e6c34
-  item_date: "2013-12-04 00:00:00"
-  title: AlchemyAPI Releases Four New Getting Started Guides
-  url: http://blog.alchemyapi.com
-  domain: blog.alchemyapi.com
-  image: ""
-- curated_id: 1aa9be7151e95a0632ad4c2d676e6e71
-  item_date: "2013-12-13 00:00:00"
-  title: Getting Started on Salesforce1 Platform with an ?Hour of Code?
-  url: https://developer.salesforce.com/blogs/developer-relations/2013/12/getting-started-with-salesforce1-platform.html
-  domain: developer.salesforce.com
-  image: ""
 - curated_id: 2a30a7182f2cb74b1f30d9f970c1655f
   item_date: "2015-05-06 00:00:00"
   title: 'Tutorial: Getting started with the Evernote API + Node.js with azk in 10
@@ -98,17 +62,17 @@
   url: https://dzone.com/articles/announcing-the-nginx-plus-on-aws-cloud-quick-start
   domain: dzone.com
   image: ""
-- curated_id: b0e32439ab2db18978c96ce85c3637e4
-  item_date: "2016-09-23 00:00:00"
-  title: SoundCloud now makes developers apply for API access
-  url: http://venturebeat.com/2016/09/23/soundcloud-now-makes-developers-apply-for-api-access/
-  domain: venturebeat.com
-  image: ""
 - curated_id: f5f92083a7ab90991cf32cac7dd5ebd4
   item_date: "2016-09-23 00:00:00"
   title: 'Slack 101: Onboarding'
   url: https://slackhq.com/slack-101-onboarding-247454704155
   domain: slackhq.com
+  image: ""
+- curated_id: b0e32439ab2db18978c96ce85c3637e4
+  item_date: "2016-09-23 00:00:00"
+  title: SoundCloud now makes developers apply for API access
+  url: http://venturebeat.com/2016/09/23/soundcloud-now-makes-developers-apply-for-api-access/
+  domain: venturebeat.com
   image: ""
 - curated_id: 634fba06f89c26a411f1284bcc91b1ad
   item_date: "2016-10-12 00:00:00"

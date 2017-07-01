@@ -1,8 +1,125 @@
 ---
-- curated_id: 04e9dc125bbcd07bb61ede3d5e82b426
-  item_date: "2012-06-03 11:14:54"
-  title: OData and Impact on API Design (video  slides)
-  url: http://apigee.com/about/blog/technology/odata-and-impact-api-design-video-slides
-  domain: apigee.com
+- curated_id: b1ae861d2d88ca390f93ca03310dc864
+  item_date: "2012-04-21 12:49:06"
+  title: Why Startups Need an API
+  url: https://tune.com/blog/startups-need-api/
+  domain: tune.com
+  image: ""
+- curated_id: 2a30a7182f2cb74b1f30d9f970c1655f
+  item_date: "2015-05-06 00:00:00"
+  title: 'Tutorial: Getting started with the Evernote API + Node.js with azk in 10
+    minutes!'
+  url: https://blog.evernote.com/tech/2015/05/06/tutorial-getting-started-with-the-evernote-api-node-js-with-azk-in-10-minutes/
+  domain: blog.evernote.com
+  image: ""
+- curated_id: dd9d716b65035967bbea9d896bc5a9da
+  item_date: "2016-01-07 00:00:00"
+  title: Getting Started With the IBM Watson Ecosystem
+  url: https://developer.ibm.com/watson/blog/2016/01/07/getting-started-with-the-ibm-watson-ecosystem-2/
+  domain: developer.ibm.com
+  image: ""
+- curated_id: 188a3091a7e80399bc9f78ad301c12aa
+  item_date: "2016-01-08 00:00:00"
+  title: Quickstart Guide to the Runscope API
+  url: http://blog.runscope.com/posts/getting-started-with-the-runscope-api
+  domain: blog.runscope.com
+  image: ""
+- curated_id: fa08559e3e1358361f60a34f9c356531
+  item_date: "2016-01-29 00:00:00"
+  title: 'Easy-Peasy Bots: Getting Started'
+  url: https://medium.com/slack-developer-blog/easy-peasy-bots-getting-started-96b65e6049bf
+  domain: medium.com
+  image: ""
+- curated_id: 8fa7874d753cebb44f993605bd78a388
+  item_date: "2016-03-07 00:00:00"
+  title: A More Distilled Version of an API Getting Started Page on a Developer Portal
+    Homepage
+  url: https://dzone.com/articles/a-more-distilled-version-of-an-api-getting-started
+  domain: dzone.com
+  image: ""
+- curated_id: 92c3d5f898996a29dee3a379fd1a4953
+  item_date: "2016-03-21 00:00:00"
+  title: ' Yodlee Offers QuickStart Package For Developers Formerly Using Intuit?s
+    Financial Data APIs'
+  url: http://www.yodlee.com/envestnet-yodlee-offers-new-quickstart-service-support-package-developers-formerly-using-intuits-financial-data-apis-cad/
+  domain: www.yodlee.com
+  image: ""
+- curated_id: e456f1c47368a2478e654850840ac086
+  item_date: "2016-04-25 00:00:00"
+  title: Quick start to QuickBooks Online REST API with OAuth1.0
+  url: https://developer.intuit.com/hub/blog/2016/04/25/quick-start-to-quickbooks-online-rest-api-with-oauth1-0
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 45d66dd804cfdbb1df92a736f963e9f4
+  item_date: "2016-05-20 00:00:00"
+  title: Quick Start to the Delivery System
+  url: http://docs.brightcove.com/en/video-cloud/concepts/delivery-system-api/guides/dev-system-quick-start.html
+  domain: docs.brightcove.com
+  image: ""
+- curated_id: f59fd79ddf1c96dd646b91ef4c691681
+  item_date: "2016-08-23 00:00:00"
+  title: Acrobits Mobile SDK Quick Start Guide
+  url: http://ap.bandwidth.com/docs/mobile-voipvoice-client-sdks/acrobits-mobile-sdk-quick-start-guide/
+  domain: ap.bandwidth.com
+  image: ""
+- curated_id: 658f01374b839fa70dae04b9c6faab13
+  item_date: "2016-09-08 00:00:00"
+  title: Announcing the NGINX Plus on AWS Cloud Quick Start
+  url: https://dzone.com/articles/announcing-the-nginx-plus-on-aws-cloud-quick-start
+  domain: dzone.com
+  image: ""
+- curated_id: b0e32439ab2db18978c96ce85c3637e4
+  item_date: "2016-09-23 00:00:00"
+  title: SoundCloud now makes developers apply for API access
+  url: http://venturebeat.com/2016/09/23/soundcloud-now-makes-developers-apply-for-api-access/
+  domain: venturebeat.com
+  image: ""
+- curated_id: f5f92083a7ab90991cf32cac7dd5ebd4
+  item_date: "2016-09-23 00:00:00"
+  title: 'Slack 101: Onboarding'
+  url: https://slackhq.com/slack-101-onboarding-247454704155
+  domain: slackhq.com
+  image: ""
+- curated_id: 634fba06f89c26a411f1284bcc91b1ad
+  item_date: "2016-10-12 00:00:00"
+  title: New AWS Quick Starts for Atlassian JIRA Software and Bitbucket Data Center
+  url: https://aws.amazon.com/blogs/aws/new-aws-quick-starts-for-atlassian-jira-software-and-bitbucket-data-center/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: c824f910edaa6d28530dcbb202c8d1e2
+  item_date: "2016-10-13 11:05:11"
+  title: 3 Questions to Answer When Integrating the HelloSign API
+  url: http://blog.hellosign.com/3-questions-to-answer-when-integrating-the-hellosign-api/
+  domain: blog.hellosign.com
+  image: ""
+- curated_id: bf06df5b7067a428d5a15ccb00055797
+  item_date: "2016-10-14 10:45:43"
+  title: Attores API tutorial
+  url: https://medium.com/@attores/attores-api-tutorial-a8e4856d9613#.r9yglmfog
+  domain: medium.com
+  image: ""
+- curated_id: 5995f781bbd55aea4c6705b6ab240baf
+  item_date: "2016-10-15 15:32:16"
+  title: 'Zero to Hero: Get Started with the Pocket Developer API in 5 Minutes'
+  url: https://medium.com/@jamesfmackenzie/getting-started-with-the-pocket-developer-api-965e2b35c33c#.siyl3yhxs
+  domain: medium.com
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2016-10-20 08:20:17"
+  title: 'API Best Practices: Getting Started'
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: 4bf4a305705b131690fa7be1edd6e26f
+  item_date: "2016-11-09 00:00:00"
+  title: Get up and running on Firebase this weekend with Firebase in a Weekend
+  url: https://firebase.googleblog.com/2016/11/get-up-and-running-on-firebase.html
+  domain: firebase.googleblog.com
+  image: ""
+- curated_id: 499eb151da3c8623437621369d22dfc2
+  item_date: "2016-11-10 00:00:00"
+  title: IBM Provides Developer Kits to Jumpstart Working with Watson
+  url: http://www.programmableweb.com/news/ibm-provides-developer-kits-to-jumpstart-working-watson/brief/2016/11/10
+  domain: www.programmableweb.com
   image: ""
 ...
